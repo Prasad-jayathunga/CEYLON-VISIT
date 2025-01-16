@@ -1,11 +1,13 @@
+
 .menu{
     position: absolute;
-    left: 350px;
+    left: 355px;
 }
 .heade{
  position: absolute;
  top: 100px;
- left: 15px;
+ left: 340px;
+ 
 }
 .navigation{
    overflow: hidden;
@@ -17,12 +19,12 @@
 }
 .navigation a{
     text-decoration: none;
-    color: gray;
-    padding-left: 10px;
+    color:rgb(222, 222, 223);
+    padding-left: 18px;
     
 }
 .navigation a:hover {
     border-top: 5px;
     border-color:rgb(122, 204, 248);
-    color: black;
+    color:rgb(199, 204, 151);
   }
