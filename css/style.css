@@ -1,0 +1,28 @@
+.menu{
+    position: absolute;
+    left: 350px;
+}
+.heade{
+ position: absolute;
+ top: 100px;
+ left: 15px;
+}
+.navigation{
+   overflow: hidden;
+   padding:15px 10px;
+   transition: 0.3s;
+   position:fixed;
+   z-index: 99;
+   
+}
+.navigation a{
+    text-decoration: none;
+    color: gray;
+    padding-left: 10px;
+    
+}
+.navigation a:hover {
+    border-top: 5px;
+    border-color:rgb(122, 204, 248);
+    color: black;
+  }
